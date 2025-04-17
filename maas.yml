@@ -5,7 +5,7 @@ write_files:
       core.trust_password: password
     networks:
     - config:
-        ipv4.address: 192.168.50.85/24
+        ipv4.address: 192.168.21.10/24
         ipv6.address: none
       description: ""
       name: lxdbr0
