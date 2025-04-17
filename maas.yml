@@ -13,7 +13,7 @@ write_files:
       project: default
     storage_pools:
     - config:
-        size: 100GB
+        size: 150GB
       description: ""
       name: default
       driver: zfs
